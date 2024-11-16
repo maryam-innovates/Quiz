@@ -1,7 +1,8 @@
 html {
     height: 100%;
     width: 100%;
-    background-color: #F7F8FA
+    background-color: #F7F8FA;
+     background-image: url(https://media2.giphy.com/media/xypNpNth5oyVyUCdxZ/200w.webp?cid=ecf05e47zbpef6cim3f96ssq8ortw2hjfa16rbmg65rx1t1c&ep=v1_gifs_related&rid=200w.webp&ct=g);
 }
 
 body {
